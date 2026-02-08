@@ -1,3 +1,4 @@
 def my_name_is():
     return "AiRenad"
-print(my_name_is())
+def my_age_is():
+    return 21
